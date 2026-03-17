@@ -25,4 +25,4 @@ g++ main.cpp -o game
 
 ## Author
 
-Your Name
+Shahid Nazir
